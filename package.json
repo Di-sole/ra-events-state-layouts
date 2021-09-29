@@ -1,5 +1,6 @@
 {
   "name": "layouts",
+	"homepage": "https://di-sole.github.io/ra-events-state-layouts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
