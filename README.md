@@ -1,3 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hc21g4hlngxcu7an?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-events-state-layouts)
+# Расположение товаров
+
+[GitHub Pages](https://di-sole.github.io/ra-events-state-layouts/) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
